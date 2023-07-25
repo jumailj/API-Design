@@ -1,0 +1,13 @@
+getalltours
+creattours
+gettour-withid
+updatetour
+deletetour
+
+getallusers
+createusers
+getuser/id
+updateuser
+deleteuser
+
+
